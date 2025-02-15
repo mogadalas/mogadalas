@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Simran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Simi
+- 👀 I’m interested to improve my skills in programming, study AI, and learn about technology.
+- 💞️ I’m looking to collaborate on projects in SWE and database design!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy going on hikes, traveling, and doing photography. 
+- ⚡ Fun fact: I enjoy going on hikes, traveling, and practicing my photography skills. 
 
 <!---
 mogadalas/mogadalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
